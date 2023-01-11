@@ -1,9 +1,9 @@
-#include <stdio.h>
+#include <iostream>
 
-void main(){
-    printf("____________");
-    printf("Sawubona Mhlaba!\n");
-    printf("Yeka ukufunda lokhu, hamba uthinte utshani kancane");
-    printf("____________");
-    return 0;
+using namespace std;
+
+int main ()
+{
+  cout << "Sawubona Mhlaba!\n"; 
+  return 0;
 }
