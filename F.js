@@ -1,4 +1,4 @@
-console.log("___________");
-console.log("Hallo Welt!");
-console.log("___________");
-console.log("Schauen Sie öfter mal vorbei!");
+print("___________");
+print("Hallo Welt!");
+print("___________");
+print("Schauen Sie öfter mal vorbei!");
