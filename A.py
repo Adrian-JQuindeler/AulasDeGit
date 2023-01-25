@@ -11,4 +11,6 @@ while True:
         break
     else:
         print("Não era bem isso que você deveria escrever...\n")
+print("________________")
 print("Volte sempre!")
+print("________________")
