@@ -1,4 +1,5 @@
-#escrevendo Olá, mundo!
+# Escrevendo Olá, mundo!
+#'Olá, mundo!' - Português
 def escrevaEntreLinhas(texto):
     print("________________")
     print(texto)
@@ -14,4 +15,4 @@ while True:
 print("________________")
 print("Volte sempre!")
 print("________________")
-'Olá, mundo!' - Português
+
