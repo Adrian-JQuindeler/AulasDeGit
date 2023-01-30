@@ -7,8 +7,9 @@ def escrevaEntreLinhas(texto):
 texto = input("escreva 'Olá, mundo!'\n")
 while True:
     if texto == 'Olá, mundo!':
-        escrevaEntreLinhas(texto)
+        input(texto)
         print("\nParabéns, escreveu certo!!!\n")
+        escrevaEntreLinhas(texto)
         break
     else:
         print("Não era bem isso que você deveria escrever...\n")
