@@ -12,9 +12,9 @@ public class Salutonmondo! {
         if (frase2 == frase) {
         	System.out.println("Você escreveu corretamente, parabéns!!!");
         }
-        else
+        else {
         	System.out.println("Não era bem isso que você deveria escrever, tente novamente.");
-        	
+	}
 	}
 
 }
