@@ -17,7 +17,7 @@ Isso é um repo de **aprendizado** das funções da ferramenta *git*, do site _G
 "Explorando e entendendo GitHub";
 
 
-### Já estou quase terminando o curso de git
+### O curso de git foi finalizado.
 Esse repositória ficara salvo como lembrança
 
 ### Arquivos no Repo:
@@ -29,6 +29,7 @@ Esse repositória ficara salvo como lembrança
 - [x] F.js
 - [x] G.php
 - [x] H.r
+- [x] README 
 
 # **IMPORTANTE**
 [Informações importantes](https://youtu.be/dQw4w9WgXcQ)
