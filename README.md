@@ -29,6 +29,9 @@ Esse repositória ficara salvo como lembrança
 - [x] F.js
 - [x] G.php
 - [x] H.r
+- [x] I.t
+- [x] J.s
+- [x] K.Java
 - [x] README 
 
 # **IMPORTANTE**
