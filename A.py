@@ -11,4 +11,3 @@ while True:
         break
     else:
         print("Não era bem isso que você deveria escrever...\n")
-print("Volte sempre!")
