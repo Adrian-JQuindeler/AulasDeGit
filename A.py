@@ -4,18 +4,16 @@ def escrevaEntreLinhas(texto):
     print("________________")
     print(texto)
     print("________________")
-print("Este programa espera que você digite o texto solicitado extamebte como está escrito.\n")
+print("Por favor faça o que lhe for solicitado:")
 while True:
-    texto = input("escreva 'Olá, mundo!'\n")
-    if texto == 'Olá, mundo!':
-        print("\nParabéns, escreveu certo!!!\n")
-        escrevaEntreLinhas(texto)
+    frase = 'Olá, mundo!'
+    texto = input("escreva 'Olá, mundo!'")
+    if texto == frase:
+        escrevaEntreLinhas('Parabéns, escreveu certo!!!')
         break
     else:
         print("Não era bem isso que você deveria escrever...\n")
         print("escreva 'Olá, mundo!'\n")
-        
 print("________________")
 print("Volte sempre!")
 print("________________")
-
