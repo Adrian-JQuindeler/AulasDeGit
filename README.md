@@ -1,38 +1,40 @@
-﻿# E-comerse empresa fictícia: "Olá mundo"
-Isso é um repo de **aprendizado** das funções da ferramenta *git*, do site _GitHub_ e da escrita em _Markdown_
+﻿# Empresa fictícia: "Olá mundo"
+Isso é um repo de **aprendizado** das funções da ferramenta *git*, do site _GitHub_.
 
 ## Seções concluídas:
 "Introdução e instalação das dependências";
 
-"Git fundamental";
+[x] "Git fundamental";
 
-"trabalhando com Branches";
+[x] "trabalhando com Branches";
 
-"Compratilhamento e atualização de repositórios";
+[x] "Compratilhamento e atualização de repositórios";
 
-"Análise e inspeção de repositórios";
+[x] "Análise e inspeção de repositórios";
 
-"Melhorando commits";
+[x] "Melhorando commits";
 
-"Explorando e entendendo GitHub";
+[x] "Explorando e entendendo GitHub";
+
+[x] "Markdown".
 
 
 ### O curso de git foi finalizado.
 Esse repositória ficara salvo como lembrança
 
 ### Arquivos no Repo:
-- [x] a.py
-- [x] B.html
-- [x] C.c
-- [x] D.txt
-- [x] E.c++
-- [x] F.js
-- [x] G.php
-- [x] H.r
-- [x] I.t
-- [x] J.s
-- [x] K.Java
-- [x] README 
+- A.py
+- B.html
+- C.c
+- D.txt
+- E.c++
+- F.js
+- G.php
+- H.r
+- I.t
+- J.s
+- K.Java
+- README 
 
 # **IMPORTANTE**
 [Informações importantes](https://youtu.be/dQw4w9WgXcQ)
