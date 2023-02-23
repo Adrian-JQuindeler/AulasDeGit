@@ -1,4 +1,4 @@
-﻿# Empresa fictícia: "Olá mundo"
+﻿# Empresa fictícia "Olá mundo"
 Isso é um repo de **aprendizado** das funções da ferramenta *git*, do site _GitHub_.
 
 ## Seções concluídas:
