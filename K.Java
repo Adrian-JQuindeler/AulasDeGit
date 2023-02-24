@@ -4,16 +4,22 @@ public class Salutonmondo! {
         Scanner sc = new Scanner(System.in);
 		
 		
-		String frase = "Saluton mondo!";
-        System.out.println("Digite a frase: " + frase);
-        String frase2;
-        frase2 = sc.nextLine();
-        if (frase2 == frase) {
-        	System.out.println("Você escreveu corretamente, parabéns!!!");
+		System.out.println("Saluton mondo!");
+        System.out.println("Digite a frase em esperanto? \n"
+        		+ "[1] para bom\n"
+        		+ "[2] para ruím\n");
+        int resposta = sc.nextInt();
+        if (resposta == 1) {
+        	System.out.println("que bom que gostou, agradecemos a preferencia");
         }
-        else {
-        	System.out.println("Não era bem isso que você deveria escrever, tente novamente.");
+        else if(resposta == 2){
+        	System.out.println("Uma pena, vamos melhorar.");
 	}
+        else {
+        	System.out.println("Número inválido");
+        }
+        sc.close();
+        System.out.println("Volte sempre!!!");
 	}
 
 }
