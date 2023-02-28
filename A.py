@@ -1,5 +1,4 @@
-# Escrevendo Olá, mundo!
-#'Olá, mundo!' - Português
+# Escrevendo "Olá, mundo!" em Portugês e em python
 def escrevaEntreLinhas(texto):
     tamanho = len(texto) + 2
     print("\033[4m_\033[m" * tamanho)
